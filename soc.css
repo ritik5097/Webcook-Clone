@@ -339,11 +339,13 @@ justify-content: start;
     padding-left: 5px;
 }
 .menu-home-page-content-main-1 button{
-    width: 151px;
+    width: 141px;
     height: 44px;font-size: 16px;
     background-color: #ffb606;
     border: none;
     padding: 8px 16px;
+    position: relative;
+    top: 10px;
     outline: none;
 }
 .menu-home-page-content-main-1 a{
@@ -387,8 +389,8 @@ justify-content: start;
     color: white;
 }
 .menu-home-page-content-main-2{
-    width: 480px;
-    height: 360px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    width: 530px;
+    height: 400px;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     background-color: white;
     border-radius: 2px;
     position: relative;
@@ -417,11 +419,12 @@ justify-content: start;
 }
 .input-1{
     width: 450px;
+   
     display: flex; 
 }
 #inpe2{
     width: 190px;
-    height: 49px; 
+    height: 45px; 
     border:1px solid silver;
 }
 #inp123{
@@ -574,7 +577,7 @@ justify-content: start;
 }
 .subject-bjected-main-1-outer-1{
     width: 30%;
-    height: 280px;
+    height: 320px;
     background-color: whitesmoke;
     display: flex;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
@@ -596,7 +599,7 @@ justify-content: start;
 }
 .subject-bjected-main-1-outer-2{
     width: 30%;
-    height: 290px;
+    height: 340px;
     background-color: whitesmoke;
     display: flex;
     padding: 25px;
@@ -618,7 +621,7 @@ justify-content: start;
 }
 .subject-bjected-main-1-outer-3{
     width: 30%;
-    height: 260px;
+    height: 320px;
     background-color: whitesmoke;
     display: flex;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);

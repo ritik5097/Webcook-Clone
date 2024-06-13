@@ -655,3 +655,30 @@ border-radius: 6px ;
     position: relative;
     top: 5px;
  }
+ /* GBP*/
+.btngbp-lo{
+    width: 151px;
+    height: 49px;
+    background-color: #307ad5;
+    text-align: center;
+   padding-top:8px ;
+   position: relative;
+   bottom: 20px;
+   border: 0.2px solid black;
+}
+.btngbp-lo a{
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600;
+    color: white;
+    text-decoration: none;
+}
+.btngbp-lo a:hover{
+    color: white;
+}
+.btngbp-lo a:visited{
+    color: white;
+}
+.btngbp-lo a:link{
+    color: white;
+}
